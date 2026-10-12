@@ -20,3 +20,6 @@ eureka:
 
   instance:
     prefer-ip-address: true
+
+jwt:
+  secret: "my-super-secret-key-for-jwt-256-bits-long-123456"
